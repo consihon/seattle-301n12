@@ -1,0 +1,50 @@
+
+nav, article, aside, footer section {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#logo{
+    float:left;
+}
+
+#logo img {
+    float: left;
+}
+
+nav ul {
+    float: right;
+}
+
+nav li {
+    float:left;
+}
+
+hr{
+    clear: both;
+}
+
+.date {
+    float: left;
+}
+
+.print {
+    float: right;
+}
+
+.recipe li {
+    float: left;
+}
+
+aside img {
+    float: left;
+}
+
+aside p{
+    width: 65%;
+}
+
+aside button{
+    float:right;
+    
+}

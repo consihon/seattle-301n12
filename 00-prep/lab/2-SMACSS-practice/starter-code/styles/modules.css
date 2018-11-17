@@ -1,0 +1,75 @@
+
+nav {
+    margin-top: 25px;
+}
+  
+#logo {
+    padding-bottom: 25px;
+}
+  
+#logo h1 {
+    padding-left: 50px;
+}
+  
+#slogan {
+    padding-left: 55px;
+}
+
+h2{
+    margin-top: 50px;
+}
+
+nav li {
+    padding-right: 2px;
+}
+  
+hr {
+    border: 0;
+}
+
+.print, .date {
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 33px;
+}
+  
+.print{
+    padding-left: 30px;
+}
+
+.print img {
+    margin-right: 3px;
+}
+  
+
+main p {
+    margin: 20px 0px;
+}
+
+.recipe {
+    padding: 37px 0 0 60px;
+    margin: 40px 0;
+}
+aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+}
+
+aside h3 {
+    padding-left: 100px;
+    padding-bottom: 10px;
+}
+
+
+aside p{
+    margin: 0;
+    padding-left: 100px;
+}
+  
+ide button{
+    padding: 15px 40px;
+}
+
+footer section{
+    padding: 50px 0;
+}
